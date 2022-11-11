@@ -1,2 +1,5 @@
-# mcdonaldportfolio
-Projekt
+# McDonald Portfolio
+## Obsah projektu
+## Časový rozsah
+[] test
+[x] test2
