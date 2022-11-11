@@ -1,5 +1,5 @@
 # McDonald Portfolio
 ## Obsah projektu
 ## Časový rozsah
-- [] test
+- [ ] test
 - [x] test
