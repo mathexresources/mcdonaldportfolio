@@ -47,3 +47,6 @@
 ### 19.12
 - [ ] 
 - [ ] 
+
+## Zdroje a pomůcky
+[Barevná paleta](https://www.color-hex.com/color-palette/27069)
