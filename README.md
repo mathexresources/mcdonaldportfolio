@@ -7,8 +7,8 @@
 
 ## Časový rozsah
 ### 24.11
-- [ ] Readme
-- [ ] Rozložení práce
+- [x] Readme
+- [x] Rozložení práce
 - [ ] Homepage
 ### 25.11
 - [ ] Homepage
@@ -30,3 +30,4 @@
 
 ## Zdroje a pomůcky
 [Barevná paleta](https://www.color-hex.com/color-palette/27069)
+[Pozadí hlavní stránky](https://wallpapers.com/wallpapers/mcdonald-s-cartoon-meal-re4kpypsqla64lgr.html)
