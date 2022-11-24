@@ -3,6 +3,7 @@
 - Responsivita
 - Javascript
 - Komunikace s discord webhooky pomoci JSON
+- Využití SVG
 
 ## Časový rozsah
 ### 24.11
