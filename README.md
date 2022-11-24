@@ -23,24 +23,8 @@
 - [ ] Šifry
 ### 5.12
 - [ ] Formulař na objednani jidla
-- [ ] bug fixes, řešení malých detailů
+- [ ] posílání http requestu na discord pomocí embedu
 ### 8.12
-- [ ] bug fixes, řešení malých detailů
-- [ ] bug fixes, řešení malých detailů
-### 9.12
-- [ ] bug fixes, řešení malých detailů
-- [ ] bug fixes, řešení malých detailů
-### 12.12
-- [ ] bug fixes, řešení malých detailů
-- [ ] bug fixes, řešení malých detailů
-### 15.12
-- [ ] bug fixes, řešení malých detailů
-- [ ] bug fixes, řešení malých detailů
-### 16.12
-- [ ] bug fixes, řešení malých detailů
-- [ ] bug fixes, řešení malých detailů
-### 19.12
-- [ ] bug fixes, řešení malých detailů
 - [ ] bug fixes, řešení malých detailů
 
 ## Zdroje a pomůcky
