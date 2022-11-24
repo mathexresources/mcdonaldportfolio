@@ -8,10 +8,8 @@
     color: #fff;
 }
 
-h1, h2, h3, h4, h5, h6, h7 {
-    font-family: 'Radio Canada', sans-serif;
-    font-weight: 800;
-    text-align: center;
+div {
+    border: solid 2px aqua;
 }
 
 header {
@@ -26,14 +24,16 @@ header {
     margin-top: 13.5px;
     float: right;
     font-size: 18px;
-    font-family: 'Radio Canada', sans-serif;
-    font-weight: 800;
 }
 
 .header_links a {
     text-decoration: none;
     color: #fff;
     padding: 0.3rem;
+}
+
+.container {
+    
 }
 
 .href:hover {
@@ -45,14 +45,27 @@ header {
     padding: 15px;
     background-color: #ffd700;
     border-radius: 18px;
-}
-
-.contact:hover {
-    padding-left: 20px;
-    padding-right: 20px;
     transition: 300ms;
 }
 
-.title {
-    text-align: center;
+.contact:hover {
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: 300ms;
+}
+
+.ftitle {
+    font-size: 3rem;
+    animation: rotation 2s infinite linear;
+    margin: 10% 0 0 10%;
+    width: fit-content;
+    font-family: 'Radio Canada', sans-serif;
+    font-weight: 800;
+}
+
+.ftitle h2 {
+    font-size: 2.5rem;
+    text-align: left;
+    font-family: 'Radio Canada', sans-serif;
+    font-weight: 800;
 }
