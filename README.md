@@ -23,7 +23,7 @@
 - [ ] Šifry
 ### 5.12
 - [ ] Formulař na objednani jidla
-- [ ] posílání http requestu na discord pomocí embedu
+- [ ] posílání http requestu na discord pomocí embedu a JSON
 ### 8.12
 - [ ] bug fixes, řešení malých detailů
 
