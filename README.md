@@ -9,10 +9,9 @@
 ### 24.11
 - [x] Readme
 - [x] Rozložení práce
-- [#] Homepage
+- [x] Homepage
 ### 25.11
-- [#] Homepage
-
+- [x] Homepage
 ### 28.11
 - [ ] Formulař na objednavku jidla
 - [ ] Landingpage
