@@ -36,6 +36,7 @@ header {
 .container {
     width: 100%;
     height: 100%;
+    background: rgb(249, 243, 242);
 }
 
 .href:hover {
@@ -63,8 +64,8 @@ header {
 .banner {
     background-image: url(img/mcBackground.webp);
     background-size: cover;
-    padding-top: 10vw;
-    padding-bottom: 10vw;
+    padding-top: 7vw;
+    padding-bottom: 7vw;
 }
 
 .ftitle {
@@ -98,12 +99,20 @@ header {
     min-width: 13vw;
     min-height: 17vw;
     padding: 8px;
+    transition: 300ms;
+    font-weight: 800;
+}
+
+.grid:hover {
+    color: #fff;
+    transition: 300ms;
 }
 
 @media screen and (max-width: 500px) {
     .news_grid {
         display: block;
         width: fit-content;
+        margin: auto;
     }
 
     .grid {
@@ -113,15 +122,14 @@ header {
 
 .button {
     display: flex;
-    margin: 1rem 0 0 0;
+    margin-top: 10vw;
     padding: 15px;
+    width: fit-content;
+    text-decoration: none;
     background-color: #ffd700;
     border-radius: 6px;
     transition: 300ms;
-    text-decoration: none;
     color: #000;
-    bottom: 0;
-    width: fit-content;
 }
 
 .button:hover {
@@ -164,20 +172,19 @@ footer li{
 }
 
 .bg1 {
-    background-image: url(img/grbg4.webp);
+    background-image: url(img/grbg1.webp);
     background-position: right bottom;
-
 }
 
 .bg2 {
     background-image: url(img/grbg2.webp);
+    background-position: right bottom;
 }
 
 .bg3 {
-    background-image: url(img/grbg3.webp);
+    background-image: url(img/grbg1.webp);
 }
 
 .bg4 {
-    background-image: url(img/grbg4.webp);
-    
+    background-image: url(img/grbg2.webp);
 }
