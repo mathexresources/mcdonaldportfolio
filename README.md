@@ -9,14 +9,13 @@
 ### 24.11
 - [x] Readme
 - [x] Rozložení práce
-- [ ] Homepage
+- [#] Homepage
 ### 25.11
-- [ ] Homepage
-- [ ] Landingpage
+- [#] Homepage
 
 ### 28.11
 - [ ] Formulař na objednavku jidla
-- [ ] CSS Only animace
+- [ ] Landingpage
 ### 1.12
 - [ ] CSS only animace
 ### 2.12
