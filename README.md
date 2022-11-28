@@ -13,12 +13,12 @@
 ### 25.11
 - [x] Homepage
 ### 28.11
-- [ ] Formulař na objednavku jidla
-- [ ] Landingpage
+- [ ] Generator hesel
 ### 1.12
+- [ ] Landingpage
 - [ ] CSS only animace
 ### 2.12
-- [ ] Generator hesel
+- [ ] Formulař na objednavku jidla
 - [ ] Šifry
 ### 5.12
 - [ ] Formulař na objednani jidla

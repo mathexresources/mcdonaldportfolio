@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+    <title>McP | Generátor hesel</title>
+    <link rel="icon" type="image/x-icon" href="/img/favico.ico">
+    <script src="/scripts.js"></script>
+</head>
+<body class="wrapper">
+    <header>
+        <a href="index.html" class="logo"><svg xmlns="http://www.w3.org/2000/svg" height="50" width="50" viewBox="-40.605 -59.125 351.91 354.75">
+            <path d="M194.5 16.8c23.3 0 42.2 98.3 42.2 219.7h34C270.7 105.8 236.4 0 194.4 0c-24 0-45.2 31.7-59.2 81.5C121.2 31.7 100 0 76.2 0 34.2 0 0 105.7 0 236.4h34C34 115 52.7 16.8 76 16.8s42.2 90.8 42.2 202.8H152c0-112 19-202.8 42.3-202.8" fill="#fc0"/>
+        </svg></a>
+        <div class="header_links">
+            <a href="#" class="href">PROJEKTY</a>
+            <a href="#" class="contact">KONTAKT</a>
+        </div>
+    </header>
+    <div class="dialog">
+        <div class="title"><b>Registrace</b></div>
+        <form id="register" name="register" action="#">
+            <div style="text-align: center;color: rgb(46, 187, 205);font-size: 18px; font-family: 'Radio Canada', sans-serif", sans-serif;>Výška</div>
+            <input id="height" type="number" class="" name="height" min="120" max="220" placeholder="Výška (cm)" onKeyDown="if(this.value.length==3 && event.keyCode!=8)"><br>
+            <button id="submit" type="submit"><font size="4px">Pokračovat do hry</font></button>
+        </form>
+    </div>
+</body>
+</html>
